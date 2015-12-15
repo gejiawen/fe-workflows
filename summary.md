@@ -6,7 +6,7 @@
    * [代码风格](dai_ma_feng_ge.md)
    * [资源管理与组织](zi_yuan_guan_li_yu_zu_zhi.md)
 * [测试与覆盖](ce_shi_yu_fu_gai.md)
-   * 相关概念
+   * [相关概念](xiang_guan_gai_nian.md)
    * [TDD与BDD](tddyu_bdd.md)
    * 如何写单元测试
    * [UI测试](uice_shi.md)
