@@ -60,7 +60,7 @@
 
 为了保证版本演进的清晰，我们希望采用这种做法。关于合并的更多解释，请参考Benjamin Sandofsky的[《Understanding the Git Workflow》](http://sandofsky.com/blog/git-workflow.html)。
 
-maint分支
+### maint分支
 
 `maint`分支是一个 **LTS** 分支，其作用是用于主线branch的日常维护及bug修复。
 
