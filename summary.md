@@ -5,7 +5,7 @@
 * [前端代码基本规范](qian_duan_dai_ma_ji_ben_gui_fan.md)
    * [代码风格](dai_ma_feng_ge.md)
    * [资源管理与组织](zi_yuan_guan_li_yu_zu_zhi.md)
-* 测试与覆盖
+* [测试与覆盖](ce_shi_yu_fu_gai.md)
    * TDD与BDD
    * 如何写单元测试
    * 测试覆盖率
