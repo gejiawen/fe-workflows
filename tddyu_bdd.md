@@ -13,6 +13,7 @@ BDD接口一般提供以下方法，
 - `beforeEach()`，每个测试用例的前置动作
 - `afterEach()`，每个测试用例的后置动作
 
+
 下面是BDD测试的一段示例代码
 
 ```javascript
@@ -40,6 +41,9 @@ TDD接口提供的方法如下，
 - `teardown`：类似BDD中`after()`
 - `suiteSetup`：类似BDD中`beforeEach()`
 - `suiteTeardown`：类似BDD中`afterEach()`
+
+
+下面是TDD测试的一段示例代码
 
 ```javascript
 var assert = require("assert");
