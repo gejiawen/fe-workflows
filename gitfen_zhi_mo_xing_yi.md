@@ -148,3 +148,12 @@ rd在feature分支上迁出`{{author}}/bugfix/{{what}}`分支进行修复工作�
 - `{{author}}/{{what}}`分支 **必须** 是 **由某一特定的feature分支迁出的**
 - rd在`{{author}}/{{what}}`分支上完成具体实现后，可以merge到相应的`feature`分支进行自测。
 - `{{author}}/{{what}}`分支一般来说依赖`{{author}}`变量进行追溯，如需必要请勿修改他人的实现分支
+
+
+## 2 一般原则
+
+- 明确 **LTS** 分支与 **临时** 分支之间的所属关系
+- 若无必要，请勿在他人的个人分支上工作
+- 常用`git branch -a | grep {{author}}`管理自己名下的分支
+- 一般而言，`master`, `develop`, `maint`, `feature-{{feature-id}}`之间不推荐相互merge
+- ...
