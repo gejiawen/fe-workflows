@@ -15,6 +15,20 @@ BDD接口一般提供以下方法，
 - `beforeEach()`，每个测试用例的前置动作
 - `afterEach()`，每个测试用例的后置动作
 
+下面是BDD测试的一段示例代码
+
+```javascript
+describe('加法函数的测试', function() {
+    it('1 + 1 = 2', function() {
+        expect(1 + 1).to.be.equal(2);
+    });
+    
+    it('0 + 0 = 0', function() {
+        expect(0 + 0).to.be.equal(0);
+    });
+});
+```
+
 
 TDD是**测试驱动开发**（Test-Driven Development）的简称，它的组织方式是使用测试集（suite）和测试（test）。
 
