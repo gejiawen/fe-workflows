@@ -115,7 +115,7 @@ rd在feature分支上迁出`:author/bugfix/:what`分支进行修复工作，修�
 - `release/{{release-version}}`分支都是 **由`develop`分支迁出**
 - 将需要发布的 **任意多个** 功能分支`feature/:feature-id`合并进预发布分支进行测试
     - 可以灵活的针对需要发布或者测试的feature分支进行
-- 测试过程中遇到问题，要追溯到相关的`feature/:feature-id`分支上并迁出`bugfix/:author/:what`分支（ *此分支更多的相关说明，请参见[`bugfix/{{author}}/{{what}}`分支](#1-8-bugfix-author-what)* ）进行修复工作
+- 测试过程中遇到问题，要追溯到相关的`feature/:feature-id`分支上并迁出`bugfix/:author/:what`分支（ *此分支更多的相关说明，请参见[`bugfix/:author/:what`分支](#1-8-bugfix-author-what)* ）进行修复工作
 - 测试通过之后，将预发布分支分别合并到`master`分支和`develop`分支中
 - **视具体情况** 删除预发布分支和feature分支
 
