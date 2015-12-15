@@ -8,11 +8,11 @@ Git分支模型一中阐述了一种较为复杂的git分支工作流，其核�
 
 为了减少分支的种类和复杂型，将不再采用除了`master`之外的 **LTS** （long time support） 类型的分支，按 **功能性** 将分支分为以下几种，
 
-- feature-{{feature-id}}
-- author/feature-{{feature-id}}
-- release-{{release-version}}
-- author/hotfix/feature-{{feature-id}}
-- maint-{{issue-id}}
+- feature-:feature-id
+- author/feature-:feature-id
+- release-:release-version
+- author/hotfix/feature-:feature-id
+- maint-:issue-id
 
 
 这样，一个完整的工作流可能如下图所示，
