@@ -146,7 +146,7 @@ rd在feature分支上迁出`{{author}}/bugfix/{{what}}`分支进行修复工作�
 
 - `author/what`分支将是rd的具体实现，其命名和数量一般来说都没有限制
 - `author/what`分支 **必须** 是 **由某一特定的feature分支迁出的**
-- rd在`author}}/what`分支上完成具体实现后，可以merge到相应的`feature`分支进行自测。
+- rd在`author/what`分支上完成具体实现后，可以merge到相应的`feature`分支进行自测。
 - `author/what`分支一般来说依赖`author`变量进行追溯，如需必要请勿修改他人的实现分支
 
 
