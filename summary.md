@@ -18,7 +18,7 @@
    * 如何构建假数据
    * 可伸缩的Mock Server
 * [前端构建流程](qian_duan_gou_jian_liu_cheng.md)
-   * 模块化设计
+   * [模块化设计](mo_kuai_hua_she_ji.md)
    * 压缩、合并、打包
    * 独立部署
 * [版本控制模型](ban_ben_kong_zhi_mo_xing.md)
