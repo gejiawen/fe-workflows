@@ -22,7 +22,7 @@
    * 压缩、合并、打包
    * 独立部署
 * [版本控制模型](ban_ben_kong_zhi_mo_xing.md)
-   * Git分支模型一
+   * [Git分支模型一](gitfen_zhi_mo_xing_yi.md)
    * Git分支模型二
 * [需求迭代模型](xu_qiu_die_dai_mo_xing.md)
    * 需求分解
