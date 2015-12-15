@@ -24,7 +24,7 @@
 * [版本控制模型](ban_ben_kong_zhi_mo_xing.md)
    * Git分支模型一
    * Git分支模型二
-* 需求迭代模型
+* [需求迭代模型](xu_qiu_die_dai_mo_xing.md)
    * 需求分解
    * 需求管理与进度把控
    * 需求测试与上线
