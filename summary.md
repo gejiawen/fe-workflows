@@ -25,7 +25,7 @@
    * [Git分支模型一](gitfen_zhi_mo_xing_yi.md)
    * [Git分支模型二](gitfen_zhi_mo_xing_er.md)
 * [需求迭代模型](xu_qiu_die_dai_mo_xing.md)
-   * 需求分解
+   * [需求分解](xu_qiu_fen_jie.md)
    * 需求管理与进度把控
    * 需求测试与上线
 
