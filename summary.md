@@ -19,7 +19,7 @@
    * 可伸缩的Mock Server
 * [前端构建流程](qian_duan_gou_jian_liu_cheng.md)
    * [模块化设计](mo_kuai_hua_she_ji.md)
-   * 压缩、合并、打包
+   * [压缩、合并、打包](ya_suo_3001_he_bing_3001_da_bao.md)
    * 独立部署
 * [版本控制模型](ban_ben_kong_zhi_mo_xing.md)
    * [Git分支模型一](gitfen_zhi_mo_xing_yi.md)
