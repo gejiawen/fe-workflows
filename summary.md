@@ -10,7 +10,7 @@
    * 如何写单元测试
    * [UI测试](uice_shi.md)
    * 测试覆盖率
-   * 浅谈自动化测试
+   * [浅谈自动化测试](qian_tan_zi_dong_hua_ce_shi.md)
 * Web前后端的协作
    * 谁来写模板
    * 分工与契约
