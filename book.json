@@ -6,4 +6,5 @@
         "readme": "intro.md",
         "summary": "summary.md"
     }
+	"plugins": ["-search"]
 }
