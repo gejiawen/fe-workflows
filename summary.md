@@ -1,6 +1,6 @@
 # Summary
 
-* [扉页](intro.md)
+* [Introduction](intro.md)
 * [前言](qian_yan.md)
 * [前端代码基本规范](qian_duan_dai_ma_ji_ben_gui_fan.md)
    * [代码风格](dai_ma_feng_ge.md)
